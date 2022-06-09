@@ -2,7 +2,10 @@ import React, { useCallback, useEffect, useState } from 'react';
 import useSound from 'use-sound';
 import './App.css';
 
-const words = ['faen', 'helvete', 'satan', 'balle', 'shit', 'fuck', 'mierda', 'coño', 'merde', 'kisama', 'malaka', 'jävlar', 'fan', 'kut']
+const words = [
+  'faen', 'helvete', 'satan', 'balle', 'shit', 'fuck', 'mierda', 'coño', 'merde', 'kisama', 'malaka', 'jävlar', 'fan', 'kut',
+  'perkele', 'joder', 'grrr', 'å sava', 'gvd', 'blyat'
+]
 
 function Shit() {
   const getRandomWord = useCallback(() => words[Math.floor(Math.random() * words.length)], []);
@@ -18,7 +21,22 @@ function Shit() {
   return <span>{word}</span>
 }
 
-const sounds = ['es', 'de', 'gr', 'jp', 'pt', 'th'];
+const sounds = ['es', 'de', 'gr', 'jp', 'pt', 'th',
+'f1',
+'f2',
+'f3',
+'f4',
+'f5',
+'f6',
+'f7',
+'f8',
+'f9',
+'f10',
+'f11',
+'f12',
+'f13',
+'f14',
+];
 
 function App() {
   const getRandomSound = useCallback(() => sounds[Math.floor(Math.random() * sounds.length)], []);
