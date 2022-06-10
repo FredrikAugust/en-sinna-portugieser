@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/en-sinna-portugieser/static/css/main.365e92db.css",
-    "main.js": "/en-sinna-portugieser/static/js/main.d9ce591a.js",
+    "main.js": "/en-sinna-portugieser/static/js/main.5dcdb244.js",
     "static/js/845.eec71503.chunk.js": "/en-sinna-portugieser/static/js/845.eec71503.chunk.js",
     "static/js/787.a8fda23a.chunk.js": "/en-sinna-portugieser/static/js/787.a8fda23a.chunk.js",
     "index.html": "/en-sinna-portugieser/index.html",
     "main.365e92db.css.map": "/en-sinna-portugieser/static/css/main.365e92db.css.map",
-    "main.d9ce591a.js.map": "/en-sinna-portugieser/static/js/main.d9ce591a.js.map",
+    "main.5dcdb244.js.map": "/en-sinna-portugieser/static/js/main.5dcdb244.js.map",
     "845.eec71503.chunk.js.map": "/en-sinna-portugieser/static/js/845.eec71503.chunk.js.map",
     "787.a8fda23a.chunk.js.map": "/en-sinna-portugieser/static/js/787.a8fda23a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.365e92db.css",
-    "static/js/main.d9ce591a.js"
+    "static/js/main.5dcdb244.js"
   ]
 }
