@@ -36,6 +36,15 @@ const sounds = ['es', 'de', 'gr', 'jp', 'pt', 'th',
 'f12',
 'f13',
 'f14',
+'a1',
+'a2',
+'a3',
+'a4',
+'a5',
+'a6',
+'a7',
+'a8',
+'a9'
 ];
 
 function App() {
